@@ -1,0 +1,6 @@
+[core]
+    whitespace=trailing-space,space-before-tab
+[apply]
+    whitespace=fix
+* binary
+Dockerfile text=auto diff merge
