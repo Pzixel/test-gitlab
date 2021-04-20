@@ -1,1 +1,2 @@
 ARG TEST=test
+ARG TEST2=test2
